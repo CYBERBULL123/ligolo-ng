@@ -1,4 +1,4 @@
-# Ligolo-ng : Tunneling like a VPN
+# Ligolo-ng : Tunneling like a VPN and Proxy chains 
 
 ![Ligolo Logo](doc/logo.png)
 
